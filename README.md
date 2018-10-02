@@ -37,3 +37,5 @@ jupyter-notebook <desired_notebook>
 [profglauco](https://sites.google.com/view/profglauco/m%C3%A9todos-num%C3%A9ricos?authuser=0)
 
 [jupyter-notebook](http://jupyter.org/)
+
+[virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#usage)
