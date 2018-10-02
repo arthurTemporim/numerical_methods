@@ -14,13 +14,13 @@ The modules are divided by each tests.
 virtualenv methods_env
 ```
 
-* Activite the methods_env:
+* Activite the `methods_env`:
 
 ```sh
 source methods_env/bin/activate
 ```
 
-* Istall pip packages:
+* Install pip packages:
 
 ```sh
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ jupyter-notebook <desired_notebook>
 
 ## References
 
-[profglauco](https://sites.google.com/view/profglauco/m%C3%A9todos-num%C3%A9ricos?authuser=0)
+[Prof Glauco](https://sites.google.com/view/profglauco/m%C3%A9todos-num%C3%A9ricos?authuser=0)
 
 [jupyter-notebook](http://jupyter.org/)
 
