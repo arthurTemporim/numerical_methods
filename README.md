@@ -8,10 +8,16 @@ The modules are divided by each tests.
 
 ## Usage
 
-* Activite the virtualenv:
+* Create your [virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#usage):
 
 ```sh
-source virtualenv/bin/activate
+virtualenv methods_env
+```
+
+* Activite the methods_env:
+
+```sh
+source methods_env/bin/activate
 ```
 
 * Istall pip packages:
